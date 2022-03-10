@@ -19,6 +19,7 @@ Siguiendo con el Backlog de requerimientos se te pide:
     - Enlazar las capturas de pantalla de las paginas(Resultados).
     - Enlace de la publicación en github-pages(* puntos extras.)
     - Las dificultades que tuvo en la realización del proyecto( extra).
+- Realizar la validadación del código(* puntos extras).
 
 
 
@@ -30,7 +31,8 @@ Documentación de HTML:
 Documentación de CSS:
 [CSS docs](https://developer.mozilla.org/es/docs/Learn/CSS)
 
-
+Documentación github pages:
+[gh-pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 ## prototipo:
 ### Home page:
