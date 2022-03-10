@@ -4,18 +4,19 @@
 Xela hotel desea estar a la vanguardia de la tecnología, por ello ha iniciado con el desarrollo de su pagina web, en donde quiere mostrar sus comodidas, los dormitorios, variedad de gastronomia y demas servicos que ofrece.
 
 
-Como desarrolladores de este proyecto, tú compañero de equipo ya ha estructurado la mayor parte de la pagina tal son los menus, los contenidos principales y demas recursos. 
+Como desarrolladores de este proyecto, tú compañero de equipo ya ha estructurado la mayor parte de la pagina web, como los  menus, el contenido de cada pagina y demas secciones del proyecto. 
 
 Siguiendo con el Backlog de requerimientos se te pide:
 
-- Ratificar la estructura de HTML: agregar, cambiar o eliminar etiquetas de las paginas.(aplique buenas prácticas).
-- Desarrolle los estilos de vista del proyecto(CSS): aplique los conceptos css, y la metodologia BEM para su codificación. Guiarse en el prototipo acordado con el cliente.
+- Ratificar la estructura de HTML: agregar, cambiar o eliminar etiquetas si es necesario, de los archivos html.(aplique buenas prácticas).
+
+- Desarrolle los estilos de vista del proyecto(CSS): aplique los conceptos css, y la metodologia BEM para su codificación.  para los estilos guiarse del prototipo acordado con el cliente.
 
 
 ### Entregable:
-- Código legible del la práctica.
-- En un archivo marckdown:
-    - Enlazar las capturas de pantalla de las paginas.
+- Código html y css del la práctica.
+- En el archivo DELIVERY agregar:
+    - Enlazar las capturas de pantalla de las paginas(Resultados).
     - Enlace de la publicación en github-pages(* puntos extras.)
     - Las dificultades que tuvo en la realización del proyecto( extra).
 
@@ -47,4 +48,3 @@ Documentación de CSS:
 
 ### Contact page: 
 ![Alt text](./assets/prototype/contact.png "contact page")
-# Html-Css-Practica1
